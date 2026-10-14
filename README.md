@@ -1,6 +1,6 @@
-# Onimusha Resonance
+# Onimusha Resonance 鬼武者共鳴
 
-《鬼武者 Way of the Sword》PC 版的非官方 DualSense 外掛。透過遊戲動作回饋招架、彈開、一閃、吸魂等提示音與震動效果。
+《鬼武者 Way of the Sword》PC 版的非官方 DualSense 外掛。主要功能是透過遊戲動作回饋招架、彈開、一閃、吸魂等提示音。
 
 > 本外掛不會重現 PS5 版原生觸覺回饋，亦與 Capcom、Sony 或遊戲開發團隊無關。
 
@@ -11,17 +11,17 @@
 ## 使用需求
 
 - Windows 10/11 x64 與《鬼武者 Way of the Sword》PC 版。
-- DualSense 控制器；建議使用 USB。
+- DualSense 控制器，使用 USB 連接。
 - [.NET 10 Windows x64 執行階段](https://dotnet.microsoft.com/download/dotnet/10.0)，不需要安裝 SDK。
 - 與目前遊戲版本相容的 [REFramework](https://github.com/praydog/REFramework)。
-- 若要從 DualSense 喇叭播放互動音效：使用 USB 連線，啟動 [DualSenseX／DSX](https://github.com/Paliverse/DualSenseX/releases)，並在 Windows 啟用 DualSense 音訊裝置。
+- 從 DualSense 喇叭播放互動音效需要使用 USB 連線，以及安裝 [DualSenseX／DSX](https://github.com/Paliverse/DualSenseX/releases)，並在 Windows 啟用 DualSense 音訊裝置。
 
 ## 安裝與啟動
 
 1. 先將 REFramework 安裝到遊戲資料夾。
 2. 解壓縮下載的外掛 ZIP。
 3. 執行 `Setup.cmd`。如果程式詢問遊戲位置，請選擇包含 `OnimushaWotS.exe` 的資料夾。
-4. 等待設定程式從你自己的遊戲檔案建立必要資料。首次設定需一些時間及約 1 GB 可用空間；遊戲音效檔不會隨外掛下載。
+4. 等待設定程式從你自己的遊戲檔案建立必要資料。首次設定需一些時間及約 2 GB 可用空間；遊戲音效檔不會隨外掛下載。
 5. 連接 DualSense。若使用手把喇叭，請以 USB 連接並啟動 DualSenseX／DSX。
 6. 執行 `Start-Mod.cmd` 後開始遊戲。外掛會在啟動視窗開啟期間運作；關閉視窗即可停止。
 
