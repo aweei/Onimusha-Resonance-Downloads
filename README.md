@@ -1,4 +1,4 @@
-# Onimusha Resonance 鬼武者共鳴
+# Onimusha Resonance 鬼武者共鳴 
 
 《鬼武者 Way of the Sword》PC 版的非官方 DualSense 外掛。
  本外掛主要功能是可以讓使用 DualSense 控制器的玩家，將遊戲中招架、彈開、一閃、吸魂等動作，從 DualSense 控制器的喇叭發出相對應的音效，提高遊戲的沉浸感。
