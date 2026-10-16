@@ -1,7 +1,7 @@
 # Onimusha Resonance 鬼武者共鳴 
 
 《鬼武者 Way of the Sword》PC 版的非官方 DualSense 外掛。
- 本外掛主要功能是可以讓使用 DualSense 控制器的玩家，將遊戲中招架、彈開、一閃、吸魂等動作，從 DualSense 控制器的喇叭發出相對應的音效，提高遊戲的沉浸感。
+ 本外掛主要功能是可以讓在PC使用 DualSense 控制器的玩家，將遊戲中招架、彈開、一閃、吸魂等動作，從 DualSense 控制器的喇叭發出相對應的音效，提高遊戲的沉浸感。
 
 > 本外掛不會重現 PS5 版原生觸覺回饋、音效，亦與 Capcom、Sony 或遊戲開發團隊無關。
 
@@ -14,7 +14,7 @@
 - Windows 10/11 x64 與《鬼武者 Way of the Sword》PC 版。
 - DualSense 控制器，使用 USB 連接。
 - [.NET 10 Windows x64 執行階段](https://dotnet.microsoft.com/download/dotnet/10.0)，不需要安裝 SDK。
-- 與目前遊戲版本相容的 [REFramework](https://github.com/praydog/REFramework)。
+- 與目前遊戲版本相容的 [REFramework]([https://github.com/praydog/REFramework](https://github.com/praydog/REFramework-nightly/releases)。
 - 從 DualSense 喇叭播放互動音效需要使用 USB 連線，以及安裝 [DualSenseX／DSX](https://github.com/Paliverse/DualSenseX/releases)，並在 Windows 啟用 DualSense 音訊裝置。
 
 ## 安裝與啟動
